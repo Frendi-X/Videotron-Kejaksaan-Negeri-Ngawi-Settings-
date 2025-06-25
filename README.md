@@ -26,6 +26,11 @@ Repositori ini berisi file-file yang digunakan untuk **pengaturan (setting)** vi
 > File konfigurasi di dalam repositori ini ditujukan untuk penggunaan internal teknisi videotron Kejaksaan Negeri Ngawi.  
 > Pastikan semua konfigurasi sesuai dengan jenis panel dan tata letak fisik saat pemasangan.
 
+## Contacs us : 
+* [Frendi RoboTech](https://www.instagram.com/frendi.co/)
+* [Whatsapp : +6287888227410](https://wa.me/+6287888227410)
+* [Email    : frendirobotech@gmail.com](https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=frendirobotech@gmail.com)
+
 ---
 
 📌 Untuk pertanyaan teknis atau permintaan pembaruan konfigurasi, silakan hubungi teknisi sistem terkait.
