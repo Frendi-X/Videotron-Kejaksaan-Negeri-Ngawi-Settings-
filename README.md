@@ -4,10 +4,6 @@ Repositori ini berisi file-file yang digunakan untuk **pengaturan (setting)** vi
 
 ---
 
-## 📂 Struktur Folder
-
----
-
 ## 🧩 Isi dan Fungsinya
 
 - **Chips.zip**  
