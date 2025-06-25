@@ -1,7 +1,7 @@
 # Spesifikasi Chip yang Digunakan:
 1. DP3364S
 <br>-Jenis: Driver Chip LED Display </br>
--Fungsi: Mengatur sinyal tampilan piksel dan sinkronisasi data antar panel LED
+<br>-Fungsi: Mengatur sinyal tampilan piksel dan sinkronisasi data antar panel LED </br>
 -Keterangan Tambahan: DP3364S biasa digunakan untuk refresh rate tinggi dan mendukung tampilan warna yang stabil pada videotron luar ruang (outdoor display)
 2. RUC7258D
 <br>-Jenis: Receiver Card/Decoder Chip </br>
