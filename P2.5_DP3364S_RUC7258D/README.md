@@ -37,7 +37,3 @@ File mencakup parameter teknis, skrip konfigurasi, serta firmware yang kompatibe
 
 > Setiap update konfigurasi harus disesuaikan dengan layout fisik panel dan jenis kontroler LED.  
 > Backup file konfigurasi disimpan untuk keperluan pemeliharaan atau jika terjadi reset sistem.
-
----
-
-📦 **Struktur Folder**
