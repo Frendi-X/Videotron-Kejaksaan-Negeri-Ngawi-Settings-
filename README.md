@@ -7,7 +7,7 @@ Repositori ini berisi file-file yang digunakan untuk **pengaturan (setting)** vi
 ## 🧩 Isi dan Fungsinya
 
 - **Chips.zip**  
-  Berisi file konfigurasi chip **ICND1065L** dan **RUL5158C** yang digunakan untuk mengatur tampilan dan koneksi antar panel videotron.
+  Berisi file konfigurasi chip **DP3364S** dan **RUC7258D** yang digunakan untuk mengatur tampilan dan koneksi antar panel videotron.
 
 - **image/**  
   Folder ini berisi dokumentasi visual seperti gambar sambungan panel, mapping LED, atau skema pemasangan.
